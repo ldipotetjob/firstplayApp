@@ -1,0 +1,5 @@
+*.class
+.idea/
+activator
+activator.bat
+activator-launch*
